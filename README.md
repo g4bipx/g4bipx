@@ -1,7 +1,7 @@
 ### SEJA BEM VINDO AO MEU PERFIL
 
- Eu me chamo Emilly Gabrielly
- Estou estudando atualmente no José Ephim Mindlim
+ Eu me chamo Emilly Gabrielly,
+ Estou estudando atualmente no José Ephim Mindlim,
  Estou usando o Alura para estudos 
 
  ### PARA ENTRAR EM CONTATO COMIGO
