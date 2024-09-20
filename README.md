@@ -2,7 +2,7 @@
 
 - Eu me chamo Emilly Gabrielly,
 - Estou estudando atualmente no José Ephim Mindlim,
- -Estou usando o Alura para estudos 
+- Estou usando o Alura para estudos 
 
  ### PARA ENTRAR EM CONTATO COMIGO
  00001123416412sp@al.educacao.sp.gov.br
